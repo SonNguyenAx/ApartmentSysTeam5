@@ -1,10 +1,6 @@
 
 package UI;
 
-/**
- *
- * @author Son
- */
 public class ApmtSysJframe extends javax.swing.JFrame {
 
     /**
