@@ -19,7 +19,7 @@ public class chaoApment extends javax.swing.JFrame {
     }
     void init() {
         setLocationRelativeTo(null);
-        new Timer(15, new ActionListener() {
+        new Timer(10, new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
                 int value = progressBar.getValue();
